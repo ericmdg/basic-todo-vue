@@ -1,2 +1,1 @@
-# basic-todo-vue
-Basic todo with vue
+# Basic todo with Vue
